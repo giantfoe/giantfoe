@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @giantfoe
+- 👋 Hi, I'm Ayorinde John
 - 👀 I’m interested in ...Web3 development and Multimedia
 - 🌱 I’m currently learning ...Software engineering 
-- 💞️ I’m looking to collaborate on ...peojects 
+- 💞️ I’m looking to collaborate on ...projects 
 - 📫 How to reach me ...ayorinde270@gmail.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Alergic to Honey
